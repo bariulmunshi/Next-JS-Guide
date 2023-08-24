@@ -1,9 +1,12 @@
 # Table of Content
+
+- [Should You Use Redux in Next.js?](https://javascript.plainenglish.io/should-you-use-redux-in-next-js-5e57201c34da)
 - [Import Alias](#import-alias)
 - [Hydration](#hydration)
 - [Next JS Rendering](#next-js-rendering)
   - [pre rendering](#pre-rendering)
   - [client side rendering](#client-side-rendering)
+- [Next.JS Basic Understand](#nextjs-basic-understand)
 
 # Import Alias
 - An alias is a way to create shortcuts for your imports.
@@ -17,7 +20,7 @@
 # Next JS Rendering 
 ## Pre Rendering
    - Static Site Generation(SSG)
-   - Server Side Rendering
+   - `Server Side Rendering`
       ```sh
       1. Generate HTML in request time 
       2. Website all content found in HTML file
@@ -32,3 +35,5 @@
     3. All HTML content Generate in the client(browser) using JavaScript.
     4. It's not suitable for SEO.
    ```
+# Next.JS Basic Understand
+- We can write CSS in global.css file
