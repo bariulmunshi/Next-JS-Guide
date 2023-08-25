@@ -1,5 +1,10 @@
 # Table of Content
-
+- [hooks: useRouter, useParams and useSearchParams](#hooks-userouter-useparams-and-usesearchparams)
+  - [useSearchParams](#usesearchparams)
+  - [useRouter](#userouter)
+  - [useParams](#useparams)
+- [React Component](#react-component)
+  - [Server component](#server-component)
 - [Should You Use Redux in Next.js?](https://javascript.plainenglish.io/should-you-use-redux-in-next-js-5e57201c34da)
 - [Import Alias](#import-alias)
 - [Hydration](#hydration)
@@ -7,6 +12,22 @@
   - [pre rendering](#pre-rendering)
   - [client side rendering](#client-side-rendering)
 - [Next.JS Basic Understand](#nextjs-basic-understand)
+
+# hooks: useRouter, useParams and useSearchParams
+## useParams
+-  
+## useSearchParams
+-  
+## useRouter
+- Method(push,replace,back,forward)
+
+
+
+# React Component
+## Server component
+- In NEXT.js-13 app router folder by default component will be server component. we connect with database. 
+- Advantages: 
+## client component
 
 # Import Alias
 - An alias is a way to create shortcuts for your imports.
@@ -37,3 +58,4 @@
    ```
 # Next.JS Basic Understand
 - We can write CSS in global.css file
+- Next.JS has built in font
